@@ -1,5 +1,5 @@
 # Classic-Leaderboard-UI
-It is essential to disable the "ResetOnSpawn" property in the ScreenGui aswell as reading line 3 or else this will not work correctly
+It is **essential** to disable the "ResetOnSpawn" property in the ScreenGui aswell as reading line 3 or else this will not work correctly
 
 ## Implementation
 Option 1: Create a LocalScript and parent it to a ScreenGui under StarterGui
